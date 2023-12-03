@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haoryan-tang.github.io/</id>
     <title>Haoryan&apos;s blog</title>
-    <updated>2023-12-03T01:17:54.383Z</updated>
+    <updated>2023-12-03T01:19:20.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haoryan-tang.github.io/"/>
     <link rel="self" href="https://haoryan-tang.github.io/atom.xml"/>
-    <subtitle>Haoryan&apos;s place to blog</subtitle>
+    <subtitle>A place to blog</subtitle>
     <logo>https://haoryan-tang.github.io/images/avatar.png</logo>
     <icon>https://haoryan-tang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Haoryan&apos;s blog</rights>
